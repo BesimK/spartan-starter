@@ -57,7 +57,7 @@ export default function Home() {
             {t("heroTitle")}
             <br />
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-600 via-yellow-500 to-red-600 animate-gradient-x">
-              Spartan Up!
+              Spartan Up !
             </span>
           </motion.div>
           <motion.div
